@@ -3,13 +3,13 @@
 
 <div class="container">
 
-  <div id="myDIV" class="header">
+  <div id="div1" class="header">
     <h2>To Do</h2>
     <input type="text" id="input" placeholder="Titulo">
     <span onclick="newElement()" class="addBtn">Add</span>
   </div>
   
-  <ul id="myUL">
+  <ul id="tasks">
     <li>Task 1</li>
     <li class="checked">Task 2</li>
     <li>Task 3</li>
