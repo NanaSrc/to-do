@@ -1,3 +1,6 @@
+
+<link href="/styles.css" media="screen" rel="stylesheet" type="text/css" />
+
 @extends('layout')
 @section('content')
 
